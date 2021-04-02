@@ -1,7 +1,7 @@
 # loader
 A streaming frame for data preprocessing.
 
-# Character
+# Characters
 + Similar to the PyTorch statement
 + More simple procedure call
 + More flexible customize self code
