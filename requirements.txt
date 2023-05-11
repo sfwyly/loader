@@ -1,0 +1,2 @@
+
+rtmp://play.speedchina.cn/fly/flytest?auth_key=6001639120637-0-0-fa065116fe128f3377578a1399fb8447
